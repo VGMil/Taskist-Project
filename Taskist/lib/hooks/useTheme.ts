@@ -8,5 +8,5 @@ export const useTheme = () => {
     const toggleTheme = () => {
         setIsDark(prevIsDark => !prevIsDark);
     };
-    return [currentTheme, setIsDark, toggleTheme];
+    return {currentTheme, toggleTheme, isDark};
 }
