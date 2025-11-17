@@ -1,0 +1,21 @@
+{
+    "task": [
+        {
+            "id": "1",
+            "title": "Tender la cama",
+            "description": "de mama y mi hermano"
+        },
+        {
+            "id": "2",
+            "title": "Arreglar la casa",
+            "description":"no se donde empezar"
+        }
+    ],
+    "user": [
+        {
+            "id": "1",
+            "name": "Milo",
+            "pass": "1234"
+        }
+    ]
+}
